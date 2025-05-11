@@ -1,17 +1,22 @@
-Netflix-Like Web Interface
+# 🎬 Netflix Clone
 
-Overview
+A responsive front-end clone of the *Netflix landing page, built using only **HTML and CSS*.
 
-This project is a Netflix-like web interface built using HTML and CSS. The design replicates the look and feel of Netflix, providing an intuitive and visually appealing layout for users to browse movie and show thumbnails.
+## 🔥 Features
 
-Features
+- Visually inspired by the official Netflix UI
+- Fully responsive design
+- Hover effects for interactive experience
+- Layout structured with Flexbox and Grid
 
-Responsive Design: Adapts to different screen sizes for an optimal viewing experience.
+## 🛠 Technologies Used
 
-Header Navigation Bar: Includes a logo, search bar, and navigation options.
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
 
-Movie Thumbnails: Organized into rows similar to Netflix categories.
+## 🚀 Getting Started
 
-Hover Effects: Enhances user experience with smooth animations.
+1. *Clone the repository*
 
-Dark Theme: Matches Netflix’s signature dark aesthetic.
+```bash
+git clone https://github.com/your-username/netflix-clone.git
